@@ -7,7 +7,7 @@ n = int(input("# OF COPIES: "))
 def str_copy(txt, num):
 	output = ""
 	for i in range(num):
-		output = output + txt
+		output += txt
 	return output
 	
 print(str_copy(str, n))
