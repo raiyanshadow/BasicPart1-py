@@ -1,7 +1,7 @@
 # Write a Python program to determine profiling of Python programs. 
 # Note: A profile is a set of statistics that describes how often and for how long various parts of the program executed. These statistics can be formatted into reports via the pstats module.
 # Note: Since there is a bubble sort function and 100000 number counter, results may take up to a minute to show up
-# Note: 10 second pause has been added between each function execution so you may look at the results, timer edit is welcom
+# Note: 10 second pause has been added between each function execution so you may look at the results, timer edit is welcome
 
 import cProfile
 import random
